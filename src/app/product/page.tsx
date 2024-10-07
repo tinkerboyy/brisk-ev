@@ -193,7 +193,7 @@ export default function Product() {
               </div>
               <div>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the industry&apos; standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of
               </div>
@@ -201,7 +201,7 @@ export default function Product() {
             <div className="flex-2 md:w-3/5">
               <div>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the industry&apos; standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of
               </div>
