@@ -4,8 +4,8 @@ import { useState } from "react";
 import { Carousel } from "react-responsive-3d-carousel";
 
 export default function Home() {
-  const [width, setWidth] = useState("700px");
-  const [height, setHeight] = useState("500px");
+  const [width] = useState("700px");
+  const [height] = useState("500px");
 
   return (
     <div>
