@@ -21,9 +21,8 @@ export default function Home() {
               </div>
               <div className="">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of
+                industry. Lorem Ipsum has been the industry standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
               </div>
             </div>
             <div className="flex flex-col items-start space-y-8 w-72 font-bold  md:flex-col-reverse">
